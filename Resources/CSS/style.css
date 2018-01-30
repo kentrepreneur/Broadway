@@ -21,3 +21,8 @@ body {
   font size: 18px;
   text-decoration: underline;
 }
+
+.mid-banner {
+  background-image: url('../images/flatiron-building.png');
+  color: white;
+}
